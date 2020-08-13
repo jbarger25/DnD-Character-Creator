@@ -1,0 +1,12 @@
+Barbarian: In battle, you fight with primal ferocity. For some barbarians, rage is a means to an end–that end being violence.
+Bard: Whether singing folk ballads in taverns or elaborate compositions in royal courts, bards use their gifts to hold audiences spellbound.
+Cleric: Clerics act as conduits of divine power.
+Druid: Druids venerate the forces of nature themselves. Druids holds certain plants and animals to be sacred, and most druids are devoted to one of the many nature deities.
+Fighter: Different fighters choose different approaches to perfecting their fighting prowess, but they all end up perfecting it.
+Monk: Coming from monasteries, monks are masters of martial arts combat and meditators with the ki living forces.
+Paladin: Paladins are the ideal of the knight in shining armor; they uphold ideals of justice, virtue, and order and use righteous might to meet their ends.
+Ranger: Acting as a bulwark between civilization and the terrors of the wilderness, rangers study, track, and hunt their favored enemies.
+Rogue: Rogues have many features in common, including their emphasis on perfecting their skills, their precise and deadly approach to combat, and their increasingly quick reflexes.
+Sorcerer: An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic. As a sorcerer the power of your magic relies on your ability to project your will into the world.
+Warlock: You struck a bargain with an otherworldly being of your choice: the Archfey, the Fiend, or the Great Old One who has imbued you with mystical powers, granted you knowledge of occult lore, bestowed arcane research and magic on you and thus has given you facility with spells.
+Wizard: The study of wizardry is ancient, stretching back to the earliest mortal discoveries of magic. As a student of arcane magic, you have a spellbook containing spells that show glimmerings of your true power which is a catalyst for your mastery over certain spells.
